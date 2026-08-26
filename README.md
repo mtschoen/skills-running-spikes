@@ -1,3 +1,10 @@
+> [!NOTE]
+> **This repository has moved.** Its content, history, and issues now live in
+> [skills-working-method](https://github.com/mtschoen/skills-working-method) under the `running-spikes/` directory, as part
+> of consolidating 26 single-skill repositories into three themed families.
+> See [skills-dev#25](https://github.com/mtschoen/skills-dev) for the rationale.
+> This repository is archived and read-only.
+
 # running-spikes
 
 A skill that flips the agent's default toward **running code** over **reading more** when the question is observable behavior of an external system.
